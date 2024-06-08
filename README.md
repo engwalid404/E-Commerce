@@ -1,2 +1,3 @@
 # E-Commerce
-Created By using java script , bootstrap 5 ,react js and redux
+  .Created by using reactJs and Redux ,It contains several categories,
+   and you can recognize all of existing categories,through live demo.
