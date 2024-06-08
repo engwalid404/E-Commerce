@@ -1,0 +1,12 @@
+@media (max-width:600px) {
+   div .ml-98{
+margin-left: 98px;
+    }
+div .text-center .h6{
+margin-right: -50px;
+}
+.col-md-3 .text-center a img{
+    width: 120px;
+    height: 115px;
+}
+}

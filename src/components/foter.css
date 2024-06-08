@@ -1,0 +1,15 @@
+@media (max-width:700px ){
+
+footer .ml-70{
+    left: 70px;
+}
+footer .ml-83{
+left: 83px;
+}
+}
+footer .ml-70{
+    margin-left: 60px;
+}
+footer .ml-83{
+    margin-left: 70px;
+}
